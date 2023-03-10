@@ -9,7 +9,6 @@ print("Last line")
 
 
 """
-PS L:\home\python> python .\src\stepin\basics\print\multiple_lines.py
 1st line
 2nd line
 3rd line
