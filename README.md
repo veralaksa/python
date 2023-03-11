@@ -1,4 +1,4 @@
 # python
-a python cookbook
+a python cookbook trial
 
 + [src](src/README.md)
